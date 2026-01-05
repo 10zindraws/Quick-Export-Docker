@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=quickexportlayersdocker
+X-Krita-Manual=Manual.html
+X-Python-2-Compatible=true
+Name=Quick Export Layers Docker
+Comment=Plugin to export layers from a document

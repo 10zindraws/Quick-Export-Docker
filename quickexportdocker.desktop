@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=quickexportdocker
+X-Krita-Manual=Manual.html
+X-Python-2-Compatible=true
+Name=Quick Export
+Comment=Krita plugin to quickly export files in various formats and sizes

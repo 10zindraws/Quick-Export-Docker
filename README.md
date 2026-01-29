@@ -1,10 +1,9 @@
-# Quick Export Layers Docker Plugin for Krita
+# Quick Export Plugin for Krita
 
-![quick export layers docker screenshot](screen.png)
+<img height="600" alt="2026-01-28 15-30-55" src="https://github.com/user-attachments/assets/c0fcde97-d4d9-4ff5-b5da-fa3af6d41b51" />
 
-The quick export layers docker plugin is a docker for the Krita drawing program from where you can quickly export the current open document in different ways depending on your needs.
-
-Created by fullmontis using the python Export Layers plugin from the Krita source as a base.
+The quick export is a docker for Krita that lets you export your file in multiple formats and sizes along with some other features.
+Created by fullmontis and modified by 10zindraws using the python Export Layers plugin from the Krita source as a base.
 
 # Installation
 
